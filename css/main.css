@@ -113,7 +113,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   padding: 80px 0 65px;
 }
 .section-pak {
-  padding: 0px 0 65px;
+  padding: 60px 0 65px;
 }
 .section-header {
   color: #fff;
@@ -132,7 +132,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   background-clip: text;
   text-fill-color: transparent;
   background-color: #bb3b45;
-  background-image: -webkit-linear-gradient(bottom right, #bb3b45, #0d1313);
+  background-image: -webkit-linear-gradient(bottom right, #bb3b45, #fbfbfb);
   background-image: -o-linear-gradient(bottom right, #bb3b45, #0d1313);
   background-image: linear-gradient(to top left, #bb3b45, #0d1313);
   position: relative;
@@ -974,7 +974,7 @@ button:focus {
 }
 
 .feature-content {
-  background: #f6fbfd;
+  background-image: -webkit-linear-gradient(0deg, #ffffff67 0%, #fdd0d483 100%);
 }
 
 .single-feature {
@@ -1005,7 +1005,7 @@ button:focus {
 }
 
 .single-feature:hover {
-  box-shadow: 0px 0px 16px rgba(131, 131, 131, 0.35);
+  box-shadow: 0px 0px 16px rgba(10, 10, 10, 0.609);
 }
 
 /* ==========================================================================
